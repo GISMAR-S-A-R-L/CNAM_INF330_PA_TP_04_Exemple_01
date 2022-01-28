@@ -1,8 +1,8 @@
-import fr.cnam.pa.inf330.SquadControler;
+package fr.cnam.pa.inf330;
+
 import fr.cnam.pa.inf330.beans.Member;
 import fr.cnam.pa.inf330.beans.Squad;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

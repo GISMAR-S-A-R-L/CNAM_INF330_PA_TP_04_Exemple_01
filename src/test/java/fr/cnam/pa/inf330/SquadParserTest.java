@@ -1,3 +1,5 @@
+package fr.cnam.pa.inf330;
+
 import fr.cnam.pa.inf330.SquadParser;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

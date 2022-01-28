@@ -1,3 +1,5 @@
+package fr.cnam.pa.inf330;
+
 import org.junit.jupiter.api.*;
 
 public class UnExempleDeTUTest {

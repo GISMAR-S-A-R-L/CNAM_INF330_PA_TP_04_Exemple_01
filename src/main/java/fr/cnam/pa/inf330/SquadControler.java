@@ -29,7 +29,7 @@ public class SquadControler {
         return duplicateNameMamber.entrySet().stream().filter(m -> m.getValue().size() > 1).map(map -> map.getKey()).collect(Collectors.toList());
     }
 
-    public List<Member> checkUnpowederMember() {
+    public List<Member> checkUnpoweredMember() {
         return Arrays.stream(this.squad.getMembers()).filter(m -> m.getPowers().length == 0).collect(Collectors.toList());
     }
 
